@@ -1,13 +1,13 @@
 .containing-page { 
   margin: 10% 10% 2% 10%;
   padding: 4%;
-  background-color: #eee;
+  background-color: #000000;
 }
 
 #header {
   padding-top: 0em;
   padding-bottom: 1em;
-  color:red;
+  color: red;
 }
 
 img {
@@ -34,9 +34,10 @@ p.bg-primary {
     margin-right: 10px;
 }
 
-#winner-name {
+.winner-name {
     padding-top: 1em;
     padding-bottom: 1em;
     text-align: center;
+    display:none;
 }
 
