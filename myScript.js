@@ -1,7 +1,7 @@
 $(document).ready(function() {
 }); // end jQuery ready fn
 
-var rowNumber = 6;
+var rowNumber = 7;
 
 $(document).ready(function() {
   initSpreadsheet();
